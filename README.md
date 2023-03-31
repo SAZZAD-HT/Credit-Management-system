@@ -1,23 +1,7 @@
 
-<p align="center">
-<h2 align="center">Banking Management System</h2>
-<table align="center">
-  <tr>
-  	<th colspan="4"><h3><a href="https://www.aiub.edu">American International University-Bangladesh(AIUB)</a></h3></th>
-  </tr>
-  
-  <tr>
-  	<th colspan="4"><h3>CSC3215	WEB TECHNOLOGIES</h3></th>
-  </tr>
-  
-  <tr>
-  	<th colspan="4">Course Teacher: <a href="https://github.com/hsazzad-prog">SAZZAD HOSSAIN</a></th>
-  </tr>
+
   
 
-
-<h3>About</h3>
-<p align="justify">This is a web techonology based project offered by <a href="https://cs.aiub.edu/">Depertment of Computer Science</a>. In this course, we got to know about XAMPP control panel and used it as a local server for running our php code. We have learned how to implement html code into .php extaintioned file. We learned css, json, javascript, ajax, jquery, php and mysql. We also learned about Layered architecture. OOP conceped is used to implement. In this project we developed an online based Banking Management System using above mentioned learnings.</p>
 
 <h3>Introduction</h3>
 <p align="justify">Banking or financial sites are revolutionizing the banking sector in Bangladesh. Banking sites are used to conduct a range of financial transactions through the financial institution’s website. It connects the core banking system operated by a bank to provide customers access to banking services in place of traditional branch banking. We are doing this project to be a part of this revolution and earn first-hand experience in the web technologies related to banking which is an integral part of software engineering. Through this, in-depth ideas regarding backend and the front end can be achieved. Furthermore, we can get knowledge about how to build a secure web application that is user-friendly in every aspect.</p>
